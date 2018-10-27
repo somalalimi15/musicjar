@@ -1,6 +1,6 @@
 token=NTA1NjM3NzcyMzg0Nzk2Njc0.DrW-Cg.s9sLbqamTl0GPwnYZ5emlrubHF8
 owner=368768446327947265 
-prefix=SS
-game=Type,SSplay
+prefix=-S
+game=تـِدري آلحب شسووى بيآأ.
 stayinchannel=true
 songinstatus=true
